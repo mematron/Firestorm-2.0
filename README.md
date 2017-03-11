@@ -5,6 +5,6 @@ As of 2017 this will install and run on atleast OSX El Capitan 10.11.6.  It may 
 
 I've included a video of Firestorm 2.0 in action.
 
-Finally, the source for this application is included called mematron/Firestorm-2.0/Firestorm 2.qtz file  You'll need Xcode installed to view the source. 
+Finally, the source for this application is included called Firestorm 2.qtz file  You'll need Xcode installed to view the source. 
 
 mematron
