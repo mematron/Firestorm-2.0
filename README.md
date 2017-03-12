@@ -3,7 +3,7 @@ A sound reactive screensaver with insects that respond to sound input for macOS.
 
 As of 2017 this will install and run on atleast OSX El Capitan 10.11.6.  It may run in higher versions but it has not been tested.  I suspect that this application is future proof since I played nice and didn't use any undocumented libraies or plugins.
 
-I've included a video of Firestorm 2.0 in action.
+I've included a video of Firestorm 2.0 in action and a standalone application.
 
 Finally, the source for this application is included called "Firestorm 2.qtz" file  You'll need Xcode installed to view the source. 
 
